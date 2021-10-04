@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "BUSTICKET",
+    "slug": "BUSTICKET",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "BUSTICKET"
+}
