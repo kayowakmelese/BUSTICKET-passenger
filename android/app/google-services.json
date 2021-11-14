@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "108880607880",
+    "project_id": "busticket-8a42e",
+    "storage_bucket": "busticket-8a42e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108880607880:android:fc1a2aa66c6f068e863d3d",
+        "android_client_info": {
+          "package_name": "com.busticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108880607880-5iv6lkp1s0p5fdpkfu2o540va3uvp5ho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.busticket",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "108880607880-h0ui9sgnuvd1njjij0eib7o5cc3av1d2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.busticket",
+            "certificate_hash": "ebc5de153daf21f370b13e69e616099cffcdf63d"
+          }
+        },
+        {
+          "client_id": "108880607880-7htgec2g1namm3di0mjg31id6ecqs6tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-W_s-lR3bIuB_qiqqhjAF0QZ6xzYuKZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108880607880-7htgec2g1namm3di0mjg31id6ecqs6tc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
